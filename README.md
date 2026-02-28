@@ -3,6 +3,7 @@
 I'm Chloé, a Master's student in Computer Science & Big Data, passionate about turning raw data into meaningful insights. 
 I love working at the intersection of Data Science, Data Engineering, and AI, building systems that actually make sense for the world. 
 I'm currently based in Paris
+
 I'm currently participating in the international **Women@Dior x UNESCO**
 
 **Today's Objectif**: Searching for an internship in data-oriented fields - April 2026
