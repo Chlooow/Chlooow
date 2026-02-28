@@ -1,5 +1,5 @@
 ## Hi there! ⏾𐙚⁺˚⋆｡°✩₊
-[emoji](https://tenor.com/fr/view/chibiusa-rini-color-purple-color-changing-gif-6749301041523276022)
+<div class="tenor-gif-embed" data-postid="6749301041523276022" data-share-method="host" data-aspect-ratio="3.54839" data-width="100%"><a href="https://tenor.com/view/chibiusa-rini-color-purple-color-changing-gif-6749301041523276022">Chibiusa Rini Sticker</a>from <a href="https://tenor.com/search/chibiusa-stickers">Chibiusa Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 I'm Chloé, a Master's student in Computer Science & Big Data, passionate about turning raw data into meaningful insights. 
 I love working at the intersection of Data Science, Data Engineering, and AI, building systems that actually make sense for the world. 
