@@ -1,6 +1,6 @@
 ## Hi there! ⏾𐙚⁺˚⋆｡°✩₊
-![](https://tenor.com/view/chibiusa-rini-color-purple-color-changing-gif-6749301041523276022)
 ![emoji](chibius-rini.gif)
+
 I'm Chloé, a Master's student in Computer Science & Big Data, passionate about turning raw data into meaningful insights. 
 I love working at the intersection of Data Science, Data Engineering, and AI, building systems that actually make sense for the world. 
 I'm currently based in Paris
