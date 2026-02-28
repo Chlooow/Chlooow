@@ -1,6 +1,6 @@
 ## Hi there! ⏾𐙚⁺˚⋆｡°✩₊
-<--![emoji](chibius-rini.gif)-->
-<img width="200" height="56" alt="image" src="https://github.com/user-attachments/assets/9cd0f11c-3998-4b55-a51e-f158727d1acc" />
+![emoji](chibius-rini.gif)
+
 
 I'm Chloé, a Master's student in Computer Science & Big Data, passionate about turning raw data into meaningful insights. 
 I love working at the intersection of Data Science, Data Engineering, and AI, building systems that actually make sense for the world. 
