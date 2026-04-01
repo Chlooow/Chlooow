@@ -11,8 +11,10 @@ I'm currently based in Paris
 
 ---
 **Favorite projects**
+-
 - [.✦ ݁˖](https://github.com/Chlooow/Dior-price-prediction) Dior China price prediction
 - [.✦ ݁˖](https://github.com/Chlooow/CafeCampus_CMS) Café Campus interactive coffee machine tracker
+- [.✦ ݁˖](https://github.com/Chlooow/sephora-visual-analytics) Sephora.com website analysis
 - [.✦ ݁˖](https://github.com/Chlooow/IMChatbot) I.M Chatbot MonstaX I.M's own chatbot for divertissement purpose
 
 ---
