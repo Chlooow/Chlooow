@@ -8,7 +8,7 @@ I'm currently based in Paris
 ✧ I'm currently participating in the international **Women@Dior x UNESCO** program
 - check out our project MVP ! [here . ݁₊ ⊹ . ݁˖ . ݁](https://chlooow.github.io/herway-platform/)
 
-✧ **Today's Objectif**: Searching for an internship in data-oriented fields - April 2026 for 3 or 5 months
+✧ **Today's Objectif**: Searching for new opportunities
 
 ---
 **Favorite projects**
