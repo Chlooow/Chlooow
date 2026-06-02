@@ -5,10 +5,10 @@ I'm Chloé, a Master's student in Computer Science & Big Data, passionate about 
 I love working at the intersection of Data Science, Data Engineering, and AI, building systems that actually make sense for the world. 
 I'm currently based in Paris
 
-✧ I'm currently participating in the international **Women@Dior x UNESCO** program
+✧ I participated in the international **Women@Dior x UNESCO 2025-2026** program
 - check out our project MVP ! [here . ݁₊ ⊹ . ݁˖ . ݁](https://chlooow.github.io/herway-platform/)
 
-✧ **Today's Objectif**: Searching for new opportunities
+✧ **Today's Objectif**: Seeking for new opportunities and challenges
 
 ---
 **Favorite projects**
